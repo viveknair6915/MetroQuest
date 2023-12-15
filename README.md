@@ -1,2 +1,3 @@
 # MetroQuest
-metro companion
+Metro Companion
+MetroQuest is a program developed in c++ that helps a person to find a route to the destination entered.The program simulates a metro system with functionalities such as adding stations, establishing connections, finding the shortest path, removing stations, checking station existence, counting stations, and calculating fare and time. The main function initializes a Delhi Metro network and provides a menu-driven interface for user interaction. It also finds the total fare, time taken and number of stations in the journey. It uses concepts of OOPs, STL, and Data File Handling for its implementation.
